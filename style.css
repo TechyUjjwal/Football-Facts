@@ -1,0 +1,73 @@
+.menu{
+     background:yellow;
+     text-align:center; 
+}
+.links{
+    display: inline;
+    font-size: 20px;
+    font-style: bold;
+    color: aquamarine;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 6px;
+    padding-right: 8px;
+
+}
+.links:hover{
+           font-size:40px;
+           color:red;
+}
+#FB:hover{
+         transform: scale(0.9);
+}
+h1{
+   font-family:Roboto;
+   color:red;
+   font-size:30px;
+}
+#Vids{
+      background-color:cyan;
+    }
+h2{
+   color:red;
+   font-family:Roboto;
+   font-size:30px;
+}
+h3{
+   color:red;
+   font-family:Roboto;
+   font-size:30px;
+}
+h5{
+   color:yellow;
+   font-family:Italic;
+   font-size:30px;
+}
+h4{
+   color:red;
+   font-family:Roboto;
+   font-size:30px;
+}
+#fs{
+   color:dark blue; 
+}
+#fs:hover{
+    color:white;   
+}
+#Fact{
+     background-color:orange;
+}
+#Support{
+      background-color:blue;
+}
+#img:hover{
+      transform: scale(0.9);
+}
+#gmail{
+       width:150px;
+       height:120px;
+}
+#gmail:hover{
+            transform: scale(0.9);
+}
